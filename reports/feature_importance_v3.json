@@ -1,0 +1,402 @@
+[
+  {
+    "feature": "int_rate",
+    "imp": 10.94087528996732
+  },
+  {
+    "feature": "fico_range_high",
+    "imp": 7.079450031312742
+  },
+  {
+    "feature": "fico_range_low",
+    "imp": 4.703964516030222
+  },
+  {
+    "feature": "dti",
+    "imp": 3.7088351256543524
+  },
+  {
+    "feature": "open_acc",
+    "imp": 3.675775927191644
+  },
+  {
+    "feature": "term__ 36 months",
+    "imp": 3.24330549573716
+  },
+  {
+    "feature": "grade__A",
+    "imp": 3.1575559257514585
+  },
+  {
+    "feature": "total_acc",
+    "imp": 2.893224837502344
+  },
+  {
+    "feature": "revol_x_income",
+    "imp": 2.629365734670387
+  },
+  {
+    "feature": "revol_bal",
+    "imp": 2.6003432743639228
+  },
+  {
+    "feature": "revol_util",
+    "imp": 2.579073387521593
+  },
+  {
+    "feature": "inq_last_6mths",
+    "imp": 2.5552293912772965
+  },
+  {
+    "feature": "sub_grade__A1",
+    "imp": 2.5253907913446034
+  },
+  {
+    "feature": "delinq_2yrs",
+    "imp": 2.5069219916772285
+  },
+  {
+    "feature": "revol_to_income",
+    "imp": 2.4742199885362175
+  },
+  {
+    "feature": "annual_inc",
+    "imp": 2.2703280760288123
+  },
+  {
+    "feature": "inst_to_monthly_income",
+    "imp": 1.8276968257706152
+  },
+  {
+    "feature": "loan_to_income",
+    "imp": 1.745991399099773
+  },
+  {
+    "feature": "log_annual_inc",
+    "imp": 1.7250796074751893
+  },
+  {
+    "feature": "income_x_loan",
+    "imp": 1.6336684655366973
+  },
+  {
+    "feature": "installment",
+    "imp": 1.6241260738978263
+  },
+  {
+    "feature": "dti_sq",
+    "imp": 1.6124340893952234
+  },
+  {
+    "feature": "revol_util_capped",
+    "imp": 1.5799678201924583
+  },
+  {
+    "feature": "pub_rec",
+    "imp": 1.5675037184255967
+  },
+  {
+    "feature": "inst_over_loan",
+    "imp": 1.5601760225812435
+  },
+  {
+    "feature": "home_ownership__RENT",
+    "imp": 1.477295923196068
+  },
+  {
+    "feature": "term__ 60 months",
+    "imp": 1.4163898560026842
+  },
+  {
+    "feature": "initial_list_status__f",
+    "imp": 1.370106147919491
+  },
+  {
+    "feature": "grade__B",
+    "imp": 1.3290829067731051
+  },
+  {
+    "feature": "loan_amnt",
+    "imp": 1.3242265482434221
+  },
+  {
+    "feature": "funded_amnt",
+    "imp": 1.3235337722851916
+  },
+  {
+    "feature": "initial_list_status__w",
+    "imp": 1.2453992440305706
+  },
+  {
+    "feature": "log_loan_amnt",
+    "imp": 1.2090255374686414
+  },
+  {
+    "feature": "log_revol_bal",
+    "imp": 1.179681889168195
+  },
+  {
+    "feature": "home_ownership__MORTGAGE",
+    "imp": 0.8725351280118545
+  },
+  {
+    "feature": "addr_state__WA",
+    "imp": 0.834287431114728
+  },
+  {
+    "feature": "grade__C",
+    "imp": 0.7654650038225618
+  },
+  {
+    "feature": "emp_length____MISSING__",
+    "imp": 0.7522058789077797
+  },
+  {
+    "feature": "dti_bin",
+    "imp": 0.6991142359593951
+  },
+  {
+    "feature": "log_installment",
+    "imp": 0.6861967309295435
+  },
+  {
+    "feature": "verification_status__Not Verified",
+    "imp": 0.6776549257829203
+  },
+  {
+    "feature": "log_funded_amnt",
+    "imp": 0.5970196290098518
+  },
+  {
+    "feature": "verification_status__Verified",
+    "imp": 0.5357890217637995
+  },
+  {
+    "feature": "verification_status__Source Verified",
+    "imp": 0.5050088083684575
+  },
+  {
+    "feature": "purpose__credit_card",
+    "imp": 0.4755840000309794
+  },
+  {
+    "feature": "sub_grade__C2",
+    "imp": 0.3837148970918686
+  },
+  {
+    "feature": "sub_grade__B1",
+    "imp": 0.37429660199439374
+  },
+  {
+    "feature": "addr_state__LA",
+    "imp": 0.3175546493774741
+  },
+  {
+    "feature": "emp_length__10+ years",
+    "imp": 0.28691295637093933
+  },
+  {
+    "feature": "addr_state__NY",
+    "imp": 0.2592832487206905
+  },
+  {
+    "feature": "home_ownership__OWN",
+    "imp": 0.2585710361169693
+  },
+  {
+    "feature": "emp_length__< 1 year",
+    "imp": 0.2438564461169674
+  },
+  {
+    "feature": "emp_length__3 years",
+    "imp": 0.2325780917739248
+  },
+  {
+    "feature": "purpose__debt_consolidation",
+    "imp": 0.2295331997782076
+  },
+  {
+    "feature": "emp_length__5 years",
+    "imp": 0.18585980866553728
+  },
+  {
+    "feature": "addr_state__AL",
+    "imp": 0.18414089148694807
+  },
+  {
+    "feature": "addr_state__MS",
+    "imp": 0.17364678479683374
+  },
+  {
+    "feature": "sub_grade__B2",
+    "imp": 0.16507881233691543
+  },
+  {
+    "feature": "sub_grade__A4",
+    "imp": 0.14794750546185836
+  },
+  {
+    "feature": "addr_state__MA",
+    "imp": 0.14743067994647058
+  },
+  {
+    "feature": "sub_grade__C1",
+    "imp": 0.14364115644540273
+  },
+  {
+    "feature": "emp_length__1 year",
+    "imp": 0.12959434224570401
+  },
+  {
+    "feature": "emp_length__6 years",
+    "imp": 0.1282116612989379
+  },
+  {
+    "feature": "purpose__wedding",
+    "imp": 0.12777992066735097
+  },
+  {
+    "feature": "sub_grade__C4",
+    "imp": 0.12370800962393343
+  },
+  {
+    "feature": "addr_state__TN",
+    "imp": 0.11489847348263606
+  },
+  {
+    "feature": "grade__D",
+    "imp": 0.110187133633578
+  },
+  {
+    "feature": "addr_state__SC",
+    "imp": 0.10649140049582556
+  },
+  {
+    "feature": "purpose__small_business",
+    "imp": 0.0998635260321865
+  },
+  {
+    "feature": "sub_grade__B5",
+    "imp": 0.09955543566882392
+  },
+  {
+    "feature": "purpose__major_purchase",
+    "imp": 0.09090222709092295
+  },
+  {
+    "feature": "addr_state__FL",
+    "imp": 0.0820483084325796
+  },
+  {
+    "feature": "addr_state__CT",
+    "imp": 0.08184281110998806
+  },
+  {
+    "feature": "sub_grade__D4",
+    "imp": 0.07519432993547735
+  },
+  {
+    "feature": "grade__E",
+    "imp": 0.07268225185522235
+  },
+  {
+    "feature": "addr_state__PA",
+    "imp": 0.06961269153372712
+  },
+  {
+    "feature": "purpose__medical",
+    "imp": 0.06719061303151777
+  },
+  {
+    "feature": "addr_state__NJ",
+    "imp": 0.06647486781821153
+  },
+  {
+    "feature": "sub_grade__A5",
+    "imp": 0.06465143616499838
+  },
+  {
+    "feature": "addr_state__CA",
+    "imp": 0.062142626145970964
+  },
+  {
+    "feature": "addr_state__OH",
+    "imp": 0.05663652109689706
+  },
+  {
+    "feature": "grade__G",
+    "imp": 0.05523884913488859
+  },
+  {
+    "feature": "sub_grade__A2",
+    "imp": 0.05518674152807662
+  },
+  {
+    "feature": "application_type__Joint App",
+    "imp": 0.052211357238967804
+  },
+  {
+    "feature": "sub_grade__C5",
+    "imp": 0.05203936275380759
+  },
+  {
+    "feature": "sub_grade__A3",
+    "imp": 0.05174693368094804
+  },
+  {
+    "feature": "addr_state__AR",
+    "imp": 0.05173036158120219
+  },
+  {
+    "feature": "addr_state__AZ",
+    "imp": 0.04616575311689094
+  },
+  {
+    "feature": "purpose__car",
+    "imp": 0.037801054279102755
+  },
+  {
+    "feature": "addr_state__IL",
+    "imp": 0.03389743547691698
+  },
+  {
+    "feature": "purpose__educational",
+    "imp": 0.031552026350677095
+  },
+  {
+    "feature": "emp_length__9 years",
+    "imp": 0.03029414667287662
+  },
+  {
+    "feature": "addr_state__OR",
+    "imp": 0.028175212653435384
+  },
+  {
+    "feature": "addr_state__NH",
+    "imp": 0.024645716064933557
+  },
+  {
+    "feature": "sub_grade__D2",
+    "imp": 0.023488272721785986
+  },
+  {
+    "feature": "purpose__moving",
+    "imp": 0.022291252021711984
+  },
+  {
+    "feature": "emp_length__8 years",
+    "imp": 0.019848685422578307
+  },
+  {
+    "feature": "emp_length__4 years",
+    "imp": 0.017572923158597833
+  },
+  {
+    "feature": "purpose__home_improvement",
+    "imp": 0.017338355491120314
+  },
+  {
+    "feature": "addr_state__TX",
+    "imp": 0.016472808911993916
+  }
+]

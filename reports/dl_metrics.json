@@ -1,0 +1,19 @@
+{
+  "model_file": "models/dl/dl_model.pt",
+  "preprocessor_file": "models/preprocessor_dl.joblib",
+  "threshold_used": 0.5,
+  "auc": 0.5784837372448979,
+  "f1": 0.2647058823529412,
+  "precision": 0.19285714285714287,
+  "recall": 0.421875,
+  "confusion_matrix": [
+    [
+      279,
+      113
+    ],
+    [
+      37,
+      27
+    ]
+  ]
+}

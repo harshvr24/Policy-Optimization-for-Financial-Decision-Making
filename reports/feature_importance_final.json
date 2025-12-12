@@ -1,0 +1,582 @@
+[
+  {
+    "feature": "int_rate",
+    "imp": 25.952008937129847
+  },
+  {
+    "feature": "fico_range_high",
+    "imp": 8.317626084794957
+  },
+  {
+    "feature": "fico_range_low",
+    "imp": 6.701265564037954
+  },
+  {
+    "feature": "grade__A",
+    "imp": 6.57986840601931
+  },
+  {
+    "feature": "term__ 60 months",
+    "imp": 6.239420706602377
+  },
+  {
+    "feature": "sub_grade__A1",
+    "imp": 4.341227023515814
+  },
+  {
+    "feature": "annual_inc",
+    "imp": 4.339482553579391
+  },
+  {
+    "feature": "dti",
+    "imp": 3.5794332256093857
+  },
+  {
+    "feature": "term__ 36 months",
+    "imp": 3.2981028860541732
+  },
+  {
+    "feature": "open_acc",
+    "imp": 2.9301526465171768
+  },
+  {
+    "feature": "grade__C",
+    "imp": 2.5307572304486126
+  },
+  {
+    "feature": "installment",
+    "imp": 2.0640375304357623
+  },
+  {
+    "feature": "home_ownership__RENT",
+    "imp": 1.9378601898516552
+  },
+  {
+    "feature": "inq_last_6mths",
+    "imp": 1.830794340542628
+  },
+  {
+    "feature": "revol_bal",
+    "imp": 1.6761287394358255
+  },
+  {
+    "feature": "total_acc",
+    "imp": 1.6670146422693972
+  },
+  {
+    "feature": "initial_list_status__f",
+    "imp": 1.5145377609030435
+  },
+  {
+    "feature": "revol_util",
+    "imp": 1.49975404327871
+  },
+  {
+    "feature": "delinq_2yrs",
+    "imp": 1.2293362967486101
+  },
+  {
+    "feature": "initial_list_status__w",
+    "imp": 1.1807421216791965
+  },
+  {
+    "feature": "pub_rec",
+    "imp": 1.0637990657827032
+  },
+  {
+    "feature": "funded_amnt",
+    "imp": 0.9708490661018925
+  },
+  {
+    "feature": "grade__B",
+    "imp": 0.868686032777933
+  },
+  {
+    "feature": "verification_status__Not Verified",
+    "imp": 0.8123237877868664
+  },
+  {
+    "feature": "loan_amnt",
+    "imp": 0.6914766507647571
+  },
+  {
+    "feature": "home_ownership__MORTGAGE",
+    "imp": 0.6204749361266921
+  },
+  {
+    "feature": "emp_length____MISSING__",
+    "imp": 0.5733804300112162
+  },
+  {
+    "feature": "addr_state__AR",
+    "imp": 0.3568004040696376
+  },
+  {
+    "feature": "grade__G",
+    "imp": 0.33272973344606316
+  },
+  {
+    "feature": "addr_state__AL",
+    "imp": 0.3090068013437167
+  },
+  {
+    "feature": "addr_state__WA",
+    "imp": 0.29925500358472484
+  },
+  {
+    "feature": "addr_state__LA",
+    "imp": 0.277580318559155
+  },
+  {
+    "feature": "purpose__wedding",
+    "imp": 0.2606929459132789
+  },
+  {
+    "feature": "grade__E",
+    "imp": 0.2546125193634335
+  },
+  {
+    "feature": "purpose__credit_card",
+    "imp": 0.226384016369778
+  },
+  {
+    "feature": "purpose__debt_consolidation",
+    "imp": 0.19129151853616452
+  },
+  {
+    "feature": "addr_state__SC",
+    "imp": 0.18338703589788782
+  },
+  {
+    "feature": "verification_status__Source Verified",
+    "imp": 0.18210151283340115
+  },
+  {
+    "feature": "emp_length__10+ years",
+    "imp": 0.1705234830258123
+  },
+  {
+    "feature": "purpose__vacation",
+    "imp": 0.16082469927549742
+  },
+  {
+    "feature": "addr_state__MS",
+    "imp": 0.13953722463479426
+  },
+  {
+    "feature": "emp_length__9 years",
+    "imp": 0.1367257126175659
+  },
+  {
+    "feature": "addr_state__CT",
+    "imp": 0.1256609739084091
+  },
+  {
+    "feature": "emp_length__3 years",
+    "imp": 0.12447584035355642
+  },
+  {
+    "feature": "sub_grade__B5",
+    "imp": 0.11271844760105158
+  },
+  {
+    "feature": "purpose__other",
+    "imp": 0.11033509821435376
+  },
+  {
+    "feature": "sub_grade__D1",
+    "imp": 0.09856714443676588
+  },
+  {
+    "feature": "purpose__medical",
+    "imp": 0.09449481629946806
+  },
+  {
+    "feature": "addr_state__AK",
+    "imp": 0.09399086062085722
+  },
+  {
+    "feature": "sub_grade__C4",
+    "imp": 0.09397925076622031
+  },
+  {
+    "feature": "addr_state__FL",
+    "imp": 0.08595471131479929
+  },
+  {
+    "feature": "verification_status__Verified",
+    "imp": 0.07789944819094707
+  },
+  {
+    "feature": "purpose__moving",
+    "imp": 0.07233339977228687
+  },
+  {
+    "feature": "emp_length__1 year",
+    "imp": 0.0686746127241655
+  },
+  {
+    "feature": "addr_state__ME",
+    "imp": 0.06558126365413645
+  },
+  {
+    "feature": "sub_grade__C3",
+    "imp": 0.06342668118069505
+  },
+  {
+    "feature": "sub_grade__C2",
+    "imp": 0.05730578927085188
+  },
+  {
+    "feature": "application_type__Joint App",
+    "imp": 0.04253836857071194
+  },
+  {
+    "feature": "purpose__educational",
+    "imp": 0.030549875539300067
+  },
+  {
+    "feature": "purpose__small_business",
+    "imp": 0.026041690310325473
+  },
+  {
+    "feature": "application_type__Individual",
+    "imp": 0.01980112271699537
+  },
+  {
+    "feature": "sub_grade__A2",
+    "imp": 0.018502292132673948
+  },
+  {
+    "feature": "sub_grade__B3",
+    "imp": 0.013093631548823682
+  },
+  {
+    "feature": "sub_grade__C1",
+    "imp": 0.012080852595769341
+  },
+  {
+    "feature": "grade__D",
+    "imp": 0.0
+  },
+  {
+    "feature": "grade__F",
+    "imp": 0.0
+  },
+  {
+    "feature": "sub_grade__A3",
+    "imp": 0.0
+  },
+  {
+    "feature": "sub_grade__A4",
+    "imp": 0.0
+  },
+  {
+    "feature": "sub_grade__A5",
+    "imp": 0.0
+  },
+  {
+    "feature": "sub_grade__B1",
+    "imp": 0.0
+  },
+  {
+    "feature": "sub_grade__B2",
+    "imp": 0.0
+  },
+  {
+    "feature": "sub_grade__B4",
+    "imp": 0.0
+  },
+  {
+    "feature": "sub_grade__C5",
+    "imp": 0.0
+  },
+  {
+    "feature": "sub_grade__D2",
+    "imp": 0.0
+  },
+  {
+    "feature": "sub_grade__D3",
+    "imp": 0.0
+  },
+  {
+    "feature": "sub_grade__D4",
+    "imp": 0.0
+  },
+  {
+    "feature": "sub_grade__D5",
+    "imp": 0.0
+  },
+  {
+    "feature": "sub_grade__E1",
+    "imp": 0.0
+  },
+  {
+    "feature": "sub_grade__E2",
+    "imp": 0.0
+  },
+  {
+    "feature": "sub_grade__E3",
+    "imp": 0.0
+  },
+  {
+    "feature": "sub_grade__E4",
+    "imp": 0.0
+  },
+  {
+    "feature": "sub_grade__E5",
+    "imp": 0.0
+  },
+  {
+    "feature": "sub_grade__F1",
+    "imp": 0.0
+  },
+  {
+    "feature": "sub_grade__F2",
+    "imp": 0.0
+  },
+  {
+    "feature": "sub_grade__F3",
+    "imp": 0.0
+  },
+  {
+    "feature": "sub_grade__F4",
+    "imp": 0.0
+  },
+  {
+    "feature": "sub_grade__F5",
+    "imp": 0.0
+  },
+  {
+    "feature": "sub_grade__G1",
+    "imp": 0.0
+  },
+  {
+    "feature": "sub_grade__G2",
+    "imp": 0.0
+  },
+  {
+    "feature": "sub_grade__G3",
+    "imp": 0.0
+  },
+  {
+    "feature": "sub_grade__G4",
+    "imp": 0.0
+  },
+  {
+    "feature": "sub_grade__G5",
+    "imp": 0.0
+  },
+  {
+    "feature": "emp_length__2 years",
+    "imp": 0.0
+  },
+  {
+    "feature": "emp_length__4 years",
+    "imp": 0.0
+  },
+  {
+    "feature": "emp_length__5 years",
+    "imp": 0.0
+  },
+  {
+    "feature": "emp_length__6 years",
+    "imp": 0.0
+  },
+  {
+    "feature": "emp_length__7 years",
+    "imp": 0.0
+  },
+  {
+    "feature": "emp_length__8 years",
+    "imp": 0.0
+  },
+  {
+    "feature": "emp_length__< 1 year",
+    "imp": 0.0
+  },
+  {
+    "feature": "home_ownership__OWN",
+    "imp": 0.0
+  },
+  {
+    "feature": "purpose__car",
+    "imp": 0.0
+  },
+  {
+    "feature": "purpose__home_improvement",
+    "imp": 0.0
+  },
+  {
+    "feature": "purpose__house",
+    "imp": 0.0
+  },
+  {
+    "feature": "purpose__major_purchase",
+    "imp": 0.0
+  },
+  {
+    "feature": "purpose__renewable_energy",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__AZ",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__CA",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__CO",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__DC",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__DE",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__GA",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__HI",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__ID",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__IL",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__IN",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__KS",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__KY",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__MA",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__MD",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__MI",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__MN",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__MO",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__MT",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__NC",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__ND",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__NE",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__NH",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__NJ",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__NM",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__NV",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__NY",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__OH",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__OK",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__OR",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__PA",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__RI",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__SD",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__TN",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__TX",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__UT",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__VA",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__VT",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__WI",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__WV",
+    "imp": 0.0
+  },
+  {
+    "feature": "addr_state__WY",
+    "imp": 0.0
+  }
+]

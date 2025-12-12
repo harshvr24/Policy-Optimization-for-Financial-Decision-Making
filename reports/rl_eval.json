@@ -1,0 +1,10 @@
+{
+  "n": 456,
+  "avg_reward": 0.03626728057861328,
+  "std_reward": 0.19104520976543427,
+  "sum_reward": 16.537879943847656,
+  "policy_actions": {
+    "approve_count": 233,
+    "reject_count": 223
+  }
+}
